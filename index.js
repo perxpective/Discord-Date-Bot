@@ -46,4 +46,4 @@ function dateCommand(receivedMessage, argument) {
 	}
 }
 
-client.login("NzA5NDMzODcxMTA3NjIwOTc3.XrwgNQ.zowKinOKFEoBDR5xqJe3gUNlg7w")
+client.login("insert bot token here")
