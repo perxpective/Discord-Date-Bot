@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/perxpective/Discord-Date-Bot)](https://repl.it/github/perxpective/Discord-Date-Bot)
+
 # Discord-Date-Bot
 Add the bot to your Discord server and ask it for the date (day, month, year).
 
