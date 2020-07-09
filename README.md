@@ -87,3 +87,4 @@ client.login("insert bot token here")
 > Disclaimer: Don't share your bot token with anyone or post it to the Internet, unless it is a dummy project.
 
 ## Dry Run
+![screenshot]()
