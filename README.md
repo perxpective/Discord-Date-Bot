@@ -87,4 +87,4 @@ client.login("insert bot token here")
 > Disclaimer: Don't share your bot token with anyone or post it to the Internet, unless it is a dummy project.
 
 ## Dry Run
-![screenshot]('https://github.com/perxpective/Discord-Date-Bot/blob/master/Screenshot%202020-07-09%20at%2016.53.15.png')
+![screenshot](https://github.com/perxpective/Discord-Date-Bot/blob/master/Screenshot%202020-07-09%20at%2016.53.15.png)
